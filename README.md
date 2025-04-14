@@ -1,16 +1,16 @@
-# ᝰ.ᐟ xoob
+# ᝰ.ᐟ Tea
 
 Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
 
-## 🚨 Attention Before Running xoob Cli Version
+## 🚨 Attention Before Running Tea Cli Version
 
 I am not `responsible` for the possibility of an account being `banned`!
 
-## 📎 xoob Node cli version Script features
+## 📎 Tea Node cli version Script features
 
-- Auto task
-- Auto daily combo
-- Auto mining, claim
+- Auto task transfers daily (100)
+- Auto stake/unstake
+- Auto claim reward
 - Support proxy or not
 - Mutiple threads, multiple accounts
 
@@ -19,8 +19,8 @@ I am not `responsible` for the possibility of an account being `banned`!
 - Clone Repository
 
 ```bash
-git clone https://github.com/Hunga9k50doker/xoob.git
-cd xoob
+git clone https://github.com/Hunga9k50doker/tea.git
+cd tea
 ```
 
 - Install Dependency
